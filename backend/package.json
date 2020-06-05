@@ -1,0 +1,19 @@
+{
+  "name": "learning-june-2020-mern-fullstack-guide",
+  "version": "1.0.0",
+  "description": "MERN Fullstack Guide - Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Robert Laws",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
